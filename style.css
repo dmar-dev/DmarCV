@@ -7,6 +7,24 @@ body {
 /* uklada dzieci obok siebie */
 .wrapper {
     display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    width: 1200px;
+    margin: 0 auto;
+    background: #ffffff;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.main-description {
+    background: rgb(207, 206, 221);
+    margin: 20px;
+    padding: 20px;
+}
+
+.block-2{
+    background: rgb(229, 219, 238);
+    margin: 20px;
+    padding: 20px;
 }
 
 li {
