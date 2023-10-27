@@ -1,0 +1,22 @@
+body {
+    /* https://fonts.google.com/specimen/Montserrat?query=montserrat */
+    font-family: "Montserrat", sans-serif;
+    background: #f5f7fa;
+}
+
+/* uklada dzieci obok siebie */
+.wrapper {
+    display: flex;
+}
+
+li {
+    color: rgb(26, 161, 71);
+}
+
+h2 {
+    color: rgb(247, 7, 7);
+}
+
+.description {
+    color: rgb(19, 22, 221);
+}
